@@ -13,12 +13,12 @@ Seguindo o desafio do curso do de Integração Contínua de desenvolver uma pipe
 
 ## Definindo Develop como branch principal
 
-![develop](https://raw.githubusercontent.com/gabrielbioinfo/desafiodockergo/main/assets/image_size.PNG?token=AAYEWCY25FD5OYTVGSMMCILA7COAO)
+![develop](https://raw.githubusercontent.com/gabrielbioinfo/fc-desafio-ci-sonarcloud/develop/image/develop_main_branch.PNG)
 
 
 ## Regras
 
-![regras ativadas](https://raw.githubusercontent.com/gabrielbioinfo/desafiodockergo/main/assets/image_size.PNG?token=AAYEWCY25FD5OYTVGSMMCILA7COAO)
+![regras ativadas](https://raw.githubusercontent.com/gabrielbioinfo/fc-desafio-ci-sonarcloud/develop/image/develop_rule.PNG)
 
 ## Tecnologias Utilizadas
 
