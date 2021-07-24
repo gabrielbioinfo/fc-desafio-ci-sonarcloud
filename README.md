@@ -11,6 +11,11 @@ Seguindo o desafio do curso do de Integração Contínua de desenvolver uma pipe
     - Execute os testes
     - Execute o SonarCloud
 
+## Definindo Develop como branch principal
+
+![develop](https://raw.githubusercontent.com/gabrielbioinfo/desafiodockergo/main/assets/image_size.PNG?token=AAYEWCY25FD5OYTVGSMMCILA7COAO)
+
+
 ## Regras
 
 ![regras ativadas](https://raw.githubusercontent.com/gabrielbioinfo/desafiodockergo/main/assets/image_size.PNG?token=AAYEWCY25FD5OYTVGSMMCILA7COAO)
